@@ -13,9 +13,7 @@
 .logo-dot {
     color: #A3DC00;}
 
-section {
-        display: inline-block;
-}
+section {display: inline-block;}
 
 .main-title {
     max-width: 495px;
@@ -24,7 +22,7 @@ section {
     margin-left: 200px;
     font-family: 'Ramaraja', serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 72px;
     line-height: 76px;
     /* or 106% */
@@ -39,7 +37,7 @@ section {
     margin-left: 200px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 20px;
     line-height: 32px;
     /* or 160% */
@@ -57,7 +55,6 @@ section {
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
-    position: absolute;
     width: 152px;
     height: 64px;
     margin-left: 200px;
