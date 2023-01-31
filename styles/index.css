@@ -13,10 +13,15 @@
 .logo-dot {
     color: #A3DC00;}
 
-section {display: inline-block;}
+section {
+    display: inline-block;
+    /*only sits inline with screen view at 90%, cant figure out why!?*/
+}
+
 
 .main-title {
     max-width: 495px;
+    /*500px brings the text onto 2 lines*/
     width: 100%;
     margin-top: 203px;
     margin-left: 200px;
